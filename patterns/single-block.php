@@ -88,7 +88,7 @@
 <!-- /wp:spacer -->
 
 <!-- wp:image {"id":136,"width":376,"height":244,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large is-resized"><img src="http://agency-block.local/wp-content/uploads/2023/08/influencer-marketing-job-concept-1024x683.jpg" alt="" class="wp-image-136" style="width:376px;height:244px" width="376" height="244"/></figure>
+<figure class="wp-block-image size-large is-resized"><img src="<?php echo esc_url(get_stylesheet_directory_uri())  ?>/assets/img/ads/ads1.jpg" alt="" class="wp-image-136" style="width:376px;height:244px" width="376" height="244"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns --></div>

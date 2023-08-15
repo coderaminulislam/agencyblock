@@ -14,7 +14,7 @@
 <div class="wp-block-column"><!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap","verticalAlignment":"top"}} -->
 <div class="wp-block-group"><!-- wp:group {"style":{"spacing":{"padding":{"top":"10px","right":"10px","bottom":"10px","left":"10px"}},"border":{"radius":"4px"},"layout":{"selfStretch":"fixed","flexSize":"72px"},"dimensions":{"minHeight":""}},"backgroundColor":"custom-seconday-color","textColor":"white","layout":{"type":"constrained"}} -->
 <div id="iconbox" class="wp-block-group has-white-color has-custom-seconday-color-background-color has-text-color has-background" style="border-radius:4px;padding-top:10px;padding-right:10px;padding-bottom:10px;padding-left:10px"><!-- wp:image {"id":59,"width":60,"height":60,"scale":"cover","sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full is-resized"><img src="http://agency-block.local/wp-content/uploads/2023/08/business-people.png" alt="" class="wp-image-59" style="object-fit:cover;width:60px;height:60px" width="60" height="60"/></figure>
+<figure class="wp-block-image size-full is-resized"><img src="<?php echo esc_url(get_stylesheet_directory_uri())  ?>/assets/img/services/s1.png" alt="" class="wp-image-59" style="object-fit:cover;width:60px;height:60px" width="60" height="60"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:group -->
 
@@ -34,7 +34,7 @@
 <div class="wp-block-column"><!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap","verticalAlignment":"top"}} -->
 <div class="wp-block-group"><!-- wp:group {"style":{"spacing":{"padding":{"top":"10px","right":"10px","bottom":"10px","left":"10px"}},"border":{"radius":"4px"},"layout":{"selfStretch":"fixed","flexSize":"72px"},"dimensions":{"minHeight":""}},"backgroundColor":"custom-seconday-color","textColor":"white","layout":{"type":"constrained"}} -->
 <div id="iconbox" class="wp-block-group has-white-color has-custom-seconday-color-background-color has-text-color has-background" style="border-radius:4px;padding-top:10px;padding-right:10px;padding-bottom:10px;padding-left:10px"><!-- wp:image {"id":59,"width":60,"height":60,"scale":"cover","sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full is-resized"><img src="http://agency-block.local/wp-content/uploads/2023/08/business-people.png" alt="" class="wp-image-59" style="object-fit:cover;width:60px;height:60px" width="60" height="60"/></figure>
+<figure class="wp-block-image size-full is-resized"><img src="<?php echo esc_url(get_stylesheet_directory_uri())  ?>/assets/img/services/s1.png" alt="" class="wp-image-59" style="object-fit:cover;width:60px;height:60px" width="60" height="60"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:group -->
 
@@ -54,7 +54,7 @@
 <div class="wp-block-column"><!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap","verticalAlignment":"top"}} -->
 <div class="wp-block-group"><!-- wp:group {"style":{"spacing":{"padding":{"top":"10px","right":"10px","bottom":"10px","left":"10px"}},"border":{"radius":"4px"},"layout":{"selfStretch":"fixed","flexSize":"72px"},"dimensions":{"minHeight":""}},"backgroundColor":"custom-seconday-color","textColor":"white","layout":{"type":"constrained"}} -->
 <div id="iconbox" class="wp-block-group has-white-color has-custom-seconday-color-background-color has-text-color has-background" style="border-radius:4px;padding-top:10px;padding-right:10px;padding-bottom:10px;padding-left:10px"><!-- wp:image {"id":59,"width":60,"height":60,"scale":"cover","sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full is-resized"><img src="http://agency-block.local/wp-content/uploads/2023/08/business-people.png" alt="" class="wp-image-59" style="object-fit:cover;width:60px;height:60px" width="60" height="60"/></figure>
+<figure class="wp-block-image size-full is-resized"><img src="<?php echo esc_url(get_stylesheet_directory_uri())  ?>/assets/img/services/s1.png" alt="" class="wp-image-59" style="object-fit:cover;width:60px;height:60px" width="60" height="60"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:group -->
 

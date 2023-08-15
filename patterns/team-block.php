@@ -28,7 +28,7 @@
 <!-- wp:group {"layout":{"type":"flex","flexWrap":"wrap","justifyContent":"center"}} -->
 <div class="wp-block-group"><!-- wp:group {"className":"team_item","layout":{"type":"constrained","justifyContent":"center","contentSize":"370px"}} -->
 <div class="wp-block-group team_item"><!-- wp:image {"align":"center","id":90,"width":372,"height":370,"scale":"cover","sizeSlug":"full","linkDestination":"none","style":{"border":{"radius":{"topLeft":"5px","topRight":"5px"}}}} -->
-<figure class="wp-block-image aligncenter size-full is-resized has-custom-border"><img src="http://agency-block.local/wp-content/uploads/2023/08/team2.jpg" alt="" class="wp-image-90" style="border-top-left-radius:5px;border-top-right-radius:5px;object-fit:cover;width:372px;height:370px" width="372" height="370"/></figure>
+<figure class="wp-block-image aligncenter size-full is-resized has-custom-border"><img src="<?php echo esc_url(get_stylesheet_directory_uri())  ?>/assets/img/team/team2.jpg" alt="" class="wp-image-90" style="border-top-left-radius:5px;border-top-right-radius:5px;object-fit:cover;width:372px;height:370px" width="372" height="370"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:group {"style":{"spacing":{"padding":{"top":"20px","right":"20px","bottom":"20px","left":"20px"},"margin":{"top":"0px","bottom":"0px"}},"color":{"background":"#f5f5f5"},"border":{"radius":{"bottomLeft":"5px","bottomRight":"5px"}}},"className":"team_infobox","layout":{"type":"constrained"}} -->
@@ -58,7 +58,7 @@
 
 <!-- wp:group {"className":"team_item","layout":{"type":"constrained","contentSize":"372px"}} -->
 <div class="wp-block-group team_item"><!-- wp:image {"align":"center","id":89,"width":372,"height":368,"scale":"cover","sizeSlug":"full","linkDestination":"none","style":{"border":{"radius":{"topLeft":"5px","topRight":"5px"}}}} -->
-<figure class="wp-block-image aligncenter size-full is-resized has-custom-border"><img src="http://agency-block.local/wp-content/uploads/2023/08/team3.jpg" alt="" class="wp-image-89" style="border-top-left-radius:5px;border-top-right-radius:5px;object-fit:cover;width:372px;height:368px" width="372" height="368"/></figure>
+<figure class="wp-block-image aligncenter size-full is-resized has-custom-border"><img src="<?php echo esc_url(get_stylesheet_directory_uri())  ?>/assets/img/team/team3.jpg" alt="" class="wp-image-89" style="border-top-left-radius:5px;border-top-right-radius:5px;object-fit:cover;width:372px;height:368px" width="372" height="368"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:group {"style":{"spacing":{"padding":{"top":"20px","right":"20px","bottom":"20px","left":"20px"},"margin":{"top":"0px","bottom":"0px"}},"color":{"background":"#f5f5f5"},"border":{"radius":{"bottomLeft":"5px","bottomRight":"5px"}}},"className":"team_infobox","layout":{"type":"constrained"}} -->
@@ -88,7 +88,7 @@
 
 <!-- wp:group {"className":"team_item","layout":{"type":"constrained","contentSize":"372px"}} -->
 <div class="wp-block-group team_item"><!-- wp:image {"align":"center","id":83,"width":372,"height":370,"scale":"cover","sizeSlug":"full","linkDestination":"none","style":{"border":{"radius":{"topLeft":"5px","topRight":"5px"}}}} -->
-<figure class="wp-block-image aligncenter size-full is-resized has-custom-border"><img src="http://agency-block.local/wp-content/uploads/2023/08/team1.jpg" alt="" class="wp-image-83" style="border-top-left-radius:5px;border-top-right-radius:5px;object-fit:cover;width:372px;height:370px" width="372" height="370"/></figure>
+<figure class="wp-block-image aligncenter size-full is-resized has-custom-border"><img src="<?php echo esc_url(get_stylesheet_directory_uri())  ?>/assets/img/team/team1.jpg" alt="" class="wp-image-83" style="border-top-left-radius:5px;border-top-right-radius:5px;object-fit:cover;width:372px;height:370px" width="372" height="370"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:group {"style":{"spacing":{"padding":{"top":"20px","right":"20px","bottom":"20px","left":"20px"},"margin":{"top":"0px","bottom":"0px"}},"color":{"background":"#f5f5f5"},"border":{"radius":{"bottomLeft":"5px","bottomRight":"5px"}}},"className":"team_infobox","layout":{"type":"constrained"}} -->

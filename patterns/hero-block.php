@@ -33,7 +33,7 @@
 
 <!-- wp:column {"verticalAlignment":"center"} -->
 <div class="wp-block-column is-vertically-aligned-center"><!-- wp:image {"align":"right","id":52,"width":463,"height":638,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image alignright size-full is-resized"><img src="http://agency-block.local/wp-content/uploads/2023/08/men.jpg" alt="" class="wp-image-52" style="width:463px;height:638px" width="463" height="638"/></figure>
+<figure class="wp-block-image alignright size-full is-resized"><img src="<?php echo esc_url(get_stylesheet_directory_uri())  ?>/assets/img/men.jpg" alt="" class="wp-image-52" style="width:463px;height:638px" width="463" height="638"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns --></div>

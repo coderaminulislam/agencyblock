@@ -11,7 +11,7 @@
 
 <!-- wp:group {"align":"full","layout":{"type":"default"}} -->
 <div class="wp-block-group alignfull"><!-- wp:cover {"url":"http://agency-block.local/wp-content/uploads/2023/08/city-182223_1280.jpg","id":71,"hasParallax":true,"dimRatio":90,"overlayColor":"custom-heading-black","layout":{"type":"constrained"}} -->
-<div class="wp-block-cover has-parallax"><span aria-hidden="true" class="wp-block-cover__background has-custom-heading-black-background-color has-background-dim-90 has-background-dim"></span><div role="img" class="wp-block-cover__image-background wp-image-71 has-parallax" style="background-position:50% 50%;background-image:url(http://agency-block.local/wp-content/uploads/2023/08/city-182223_1280.jpg)"></div><div class="wp-block-cover__inner-container"><!-- wp:heading {"textAlign":"center","style":{"typography":{"fontStyle":"normal","fontWeight":"300"}},"textColor":"white"} -->
+<div class="wp-block-cover has-parallax"><span aria-hidden="true" class="wp-block-cover__background has-custom-heading-black-background-color has-background-dim-90 has-background-dim"></span><div role="img" class="wp-block-cover__image-background wp-image-71 has-parallax" style="background-position:50% 50%;background-image:url(<?php echo esc_url(get_stylesheet_directory_uri())  ?>/assets/img/portfolio/p2.jpg)"></div><div class="wp-block-cover__inner-container"><!-- wp:heading {"textAlign":"center","style":{"typography":{"fontStyle":"normal","fontWeight":"300"}},"textColor":"white"} -->
 <h2 class="wp-block-heading has-text-align-center has-white-color has-text-color" style="font-style:normal;font-weight:300">Awesome Style</h2>
 <!-- /wp:heading -->
 
